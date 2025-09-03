@@ -5,12 +5,12 @@
 }
 
 html {
-    background: white;
+    background: #e8f4fd;
 }
 
 body {
     font-family: 'Microsoft JhengHei', Arial, sans-serif;
-    background: white;
+    background: #e8f4fd;
     min-height: 100vh;
     padding: 20px;
     margin: 0;
