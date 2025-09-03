@@ -73,5 +73,5 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('resize', handleResize);
     handleResize(); // 初始執行
 
-    console.log('急性呼吸困難評估訓練 - 主頁面已載入');
+    console.log('急性呼吸困難評估_V2 - 主頁面已載入');
 });
